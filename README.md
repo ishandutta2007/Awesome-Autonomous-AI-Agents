@@ -146,58 +146,58 @@ The autonomous AI agent market spans **enterprise agent platforms** (Salesforce 
 
 
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
-  **The vision of accessible AI for everyone**, MIT licensed. **187,517 GitHub stars** — the pioneer of autonomous open-source agents. Chains LLM thoughts to autonomously complete multi-step goals, with a visual builder, benchmark arena, and modular agent execution environment. 🤖
+  **The vision of accessible AI for everyone**, MIT licensed. **187,517 GitHub_Stars** — the pioneer of autonomous open-source agents. Chains LLM thoughts to autonomously complete multi-step goals, with a visual builder, benchmark arena, and modular agent execution environment. 🤖
 
 - **[Browser Use](https://github.com/browser-use/browser-use)** [![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
-  **Make websites accessible for AI agents**, MIT licensed. **117,583 GitHub stars** — leading browser automation agent library. Connects LLMs directly to browser automation engines (Playwright), enabling autonomous form filling, data extraction, navigation, and multi-tab workflows. 🌐
+  **Make websites accessible for AI agents**, MIT licensed. **117,583 GitHub_Stars** — leading browser automation agent library. Connects LLMs directly to browser automation engines (Playwright), enabling autonomous form filling, data extraction, navigation, and multi-tab workflows. 🌐
 
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers)  
-  **Open-source platform for autonomous software development agents** (formerly OpenDevin), MIT licensed. **90,529 GitHub stars** — autonomous software engineer that writes code, runs terminal commands, fixes GitHub issues, and browses documentation in sandboxed Docker containers. 💻
+  **Open-source platform for autonomous software development agents** (formerly OpenDevin), MIT licensed. **90,529 GitHub_Stars** — autonomous software engineer that writes code, runs terminal commands, fixes GitHub issues, and browses documentation in sandboxed Docker containers. 💻
 
 - **[MetaGPT](https://github.com/geekan/MetaGPT)** [![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)  
-  **Multi-agent framework with role-based collaboration**, MIT licensed. **70,796 GitHub stars** — agents role-play a software company (Product Managers, Architects, Project Managers, Engineers). Given one-line requirements, outputs PRDs, architecture designs, tasks, and entire repositories. 🏢
+  **Multi-agent framework with role-based collaboration**, MIT licensed. **70,796 GitHub_Stars** — agents role-play a software company (Product Managers, Architects, Project Managers, Engineers). Given one-line requirements, outputs PRDs, architecture designs, tasks, and entire repositories. 🏢
 
 - **[AutoGen](https://github.com/microsoft/autogen)** [![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
-  **Conversational multi-agent systems**, CC-BY-4.0 licensed. **61,345 GitHub stars** — Microsoft's multi-agent framework. Agents organized as participants in a shared conversation with event-driven architecture and AutoGen Studio. ⚠️ Maintenance mode since v0.7.5 (September 30, 2025) — Microsoft recommends Microsoft Agent Framework (MAF) as successor. 🏛️
+  **Conversational multi-agent systems**, CC-BY-4.0 licensed. **61,345 GitHub_Stars** — Microsoft's multi-agent framework. Agents organized as participants in a shared conversation with event-driven architecture and AutoGen Studio. ⚠️ Maintenance mode since v0.7.5 (September 30, 2025) — Microsoft recommends Microsoft Agent Framework (MAF) as successor. 🏛️
 
 - **[CrewAI](https://github.com/crewAIInc/crewAI)** [![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
-  **Framework for orchestrating role-playing autonomous AI agents**, MIT licensed. **59,545 GitHub stars** — the fastest framework to prototype with. Role-based crews with agents defined by role, goal, and backstory with sequential or hierarchical orchestration. 👥
+  **Framework for orchestrating role-playing autonomous AI agents**, MIT licensed. **59,545 GitHub_Stars** — the fastest framework to prototype with. Role-based crews with agents defined by role, goal, and backstory with sequential or hierarchical orchestration. 👥
 
 - **[LangGraph](https://github.com/langchain-ai/langgraph)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
-  **Stateful production agents with complex control flow**, MIT licensed. **43,033 GitHub stars** — the most mature general-purpose production agent framework. Models multi-agent workflows as state graphs with checkpointers, rewindable time-travel debugging, and supervisor routing. 🕸️
+  **Stateful production agents with complex control flow**, MIT licensed. **43,033 GitHub_Stars** — the most mature general-purpose production agent framework. Models multi-agent workflows as state graphs with checkpointers, rewindable time-travel debugging, and supervisor routing. 🕸️
 
 - **[GPT Researcher](https://github.com/assafelovic/gpt-researcher)** [![Stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)  
-  **Autonomous research agent for in-depth web and local research**, MIT licensed. **30,010 GitHub stars** — parallelized web scraping, multi-source filtering, factual synthesis, and comprehensive cited research report generation. 🔎
+  **Autonomous research agent for in-depth web and local research**, MIT licensed. **30,010 GitHub_Stars** — parallelized web scraping, multi-source filtering, factual synthesis, and comprehensive cited research report generation. 🔎
 
 - **[BabyAGI](https://github.com/yoheinakajima/babyagi)** [![Stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social&color=white)](https://github.com/yoheinakajima/babyagi/stargazers)  
-  **Minimalist autonomous task execution and task creation framework**, MIT licensed. **22,357 GitHub stars** — pioneer of autonomous task-driven agent loops that generate, prioritize, and execute tasks using LLMs and vector search. 👶
+  **Minimalist autonomous task execution and task creation framework**, MIT licensed. **22,357 GitHub_Stars** — pioneer of autonomous task-driven agent loops that generate, prioritize, and execute tasks using LLMs and vector search. 👶
 
 - **[CAMEL](https://github.com/camel-ai/camel)** [![Stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers)  
-  **Role-playing agents for studying agent society**, Apache-2.0 licensed. **17,854 GitHub stars** — communicative agent framework exploring autonomous multi-agent cooperation and society simulations. 🐪
+  **Role-playing agents for studying agent society**, Apache-2.0 licensed. **17,854 GitHub_Stars** — communicative agent framework exploring autonomous multi-agent cooperation and society simulations. 🐪
 
 - **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** [![Stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social&color=white)](https://github.com/MervinPraison/PraisonAI/stargazers)  
-  **Multi-agent workflows with self-reflection**, MIT licensed. **9,220 GitHub stars** — combines role-based agent interaction with automated self-reflection and support for 100+ LLMs. 🔄
+  **Multi-agent workflows with self-reflection**, MIT licensed. **9,220 GitHub_Stars** — combines role-based agent interaction with automated self-reflection and support for 100+ LLMs. 🔄
 
 - **[OpenAgents](https://github.com/xlang-ai/OpenAgents)** [![Stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social&color=white)](https://github.com/xlang-ai/OpenAgents/stargazers)  
-  **Agent networks over WebSocket, gRPC, MCP and A2A**, Apache-2.0 licensed. **4,865 GitHub stars** — open protocol for distributed agent communication and multi-modal tool plugins. 🌐
+  **Agent networks over WebSocket, gRPC, MCP and A2A**, Apache-2.0 licensed. **4,865 GitHub_Stars** — open protocol for distributed agent communication and multi-modal tool plugins. 🌐
 
 - **[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** [![Stars](https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social&color=white)](https://github.com/AtomicBot-ai/atomic-agent/stargazers)  
-  **Local-first CLI agent for open-weight models**, MIT licensed. **3,229 GitHub stars** — runs locally with open-weight models via llama.cpp fork with 56 tools, MCP support, and 5-layer local memory. 🖥️
+  **Local-first CLI agent for open-weight models**, MIT licensed. **3,229 GitHub_Stars** — runs locally with open-weight models via llama.cpp fork with 56 tools, MCP support, and 5-layer local memory. 🖥️
 
 - **[Agent Teams](https://github.com/777genius/agent-teams-ai)** [![Stars](https://img.shields.io/github/stars/777genius/agent-teams-ai?style=social&color=white)](https://github.com/777genius/agent-teams-ai/stargazers)  
-  **Desktop app running coding-agent teams across CLIs**, AGPL-3.0 licensed. **2,254 GitHub stars** — Kanban task management, agent messaging, code review, and approval controls. 🖥️
+  **Desktop app running coding-agent teams across CLIs**, AGPL-3.0 licensed. **2,254 GitHub_Stars** — Kanban task management, agent messaging, code review, and approval controls. 🖥️
 
 - **[LightAgent](https://github.com/wanxingai/LightAgent)** [![Stars](https://img.shields.io/github/stars/wanxingai/LightAgent?style=social&color=white)](https://github.com/wanxingai/LightAgent/stargazers)  
-  **Lightweight Python agents with tools and memory**, Apache-2.0 licensed. **1,233 GitHub stars** — ultra-lightweight open-source agent framework for embedded and low-resource environments. 🪶
+  **Lightweight Python agents with tools and memory**, Apache-2.0 licensed. **1,233 GitHub_Stars** — ultra-lightweight open-source agent framework for embedded and low-resource environments. 🪶
 
 - **[Bernstein](https://github.com/sipyourdrink-ltd/bernstein)** [![Stars](https://img.shields.io/github/stars/sipyourdrink-ltd/bernstein?style=social&color=white)](https://github.com/sipyourdrink-ltd/bernstein/stargazers)  
-  **Deterministic orchestrator for 40+ CLI agents**, Apache-2.0 licensed. **1,209 GitHub stars** — deterministic orchestration across multiple agent command-line interfaces. ⚙️
+  **Deterministic orchestrator for 40+ CLI agents**, Apache-2.0 licensed. **1,209 GitHub_Stars** — deterministic orchestration across multiple agent command-line interfaces. ⚙️
 
 - **[h5i](https://github.com/h5i-dev/h5i)** [![Stars](https://img.shields.io/github/stars/h5i-dev/h5i?style=social&color=white)](https://github.com/h5i-dev/h5i/stargazers)  
-  **Runs agents in sandboxes, merges the verified result**, Apache-2.0 licensed. **701 GitHub stars** — sandboxed agent execution with verified result merging. 🛡️
+  **Runs agents in sandboxes, merges the verified result**, Apache-2.0 licensed. **701 GitHub_Stars** — sandboxed agent execution with verified result merging. 🛡️
 
 - **[SwarmClaw](https://github.com/swarmclawai/swarmclaw)** [![Stars](https://img.shields.io/github/stars/swarmclawai/swarmclaw?style=social&color=white)](https://github.com/swarmclawai/swarmclaw/stargazers)  
-  **Self-hosted runtime for multi-agent CLI work**, MIT licensed. **689 GitHub stars** — self-hosted multi-agent runtime and job runner. 🦞
+  **Self-hosted runtime for multi-agent CLI work**, MIT licensed. **689 GitHub_Stars** — self-hosted multi-agent runtime and job runner. 🦞
 
 
 
